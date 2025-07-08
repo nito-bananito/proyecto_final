@@ -11,6 +11,6 @@ Información del estudiante
 Facultad de Ingeniería y Arquitectura
 Ingeniería en Sistemas de la Información
 Introducción a la Programación
-Rodolfo Alfredo Ramírez Collado // 22010929
+joshua romeo lopez chavez // 22010929
 Martes 08 de Julio, 2025
 Grupo 3
